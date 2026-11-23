@@ -1,1 +1,1 @@
-{"rewrites":[{"destination":"/api/verify","source":"/verify.php"}]}
+{"rewrites":[{"destination":"/api/verify","source":"/verify.php"},{"destination":"/api/verify","source":"/"}]}
