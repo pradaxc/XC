@@ -17,7 +17,7 @@ const crypto = require('crypto');
 
 const KEYS = {
   // key: { EXP: "YYYY-MM-DD HH:MM:SS", used_devices, max_devices }
-  'VIP-FREE-V1': { EXP: '2099-11-25 23:48:42', used_devices: 1, max_devices: 10000 },
+  'ca': { EXP: '2099-11-25 23:48:42', used_devices: 1, max_devices: 10000 },
 };
 
 module.exports = (req, res) => {
